@@ -4,7 +4,6 @@ I like working on meaningful projects which could have a real impact because I s
 
 ## Find me around the web 🌎
 - 👀 I will be sharing some of my notebooks on [Kaggle](https://www.kaggle.com/neslousc)
-- 💻 You can reach me on [Malt](https://www.malt.fr/profile/lounesmechouek) to discuss your project.
 - 📫 Sharing updates on [LinkedIn](https://linkedin.com/in/lounes-mechouek) 
 
 <!---
