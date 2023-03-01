@@ -1,6 +1,6 @@
 ## Hi, I’m **Lounes** 👋
-I am a tech passionnate with a degree in software engineering. I'm currently studying Data Science at [Université de Paris](https://u-paris.fr).\
-I like working on meaningful projects which could have a real impact because I strongly believe that technology has the potential to be a game changer.
+I am a tech passionnate with a degree in software engineering. I'm currently studying Machine Learning at [Université Paris Cité](https://u-paris.fr).\
+I enjoy working on meaningful projects with a real impact. I strongly believe that technology has the potential to be a game changer.
 
 ## Find me around the web 🌎
 - 👀 I will be sharing some of my notebooks on [Kaggle](https://www.kaggle.com/neslousc)
